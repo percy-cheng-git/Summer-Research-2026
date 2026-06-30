@@ -1,4 +1,7 @@
-#This is for points selected 0.5 pm 0.1
+# This is for points selected 0.5 pm 0.1, N_repeats = 20, 
+# epsilon_values = np.linspace(0.0001, 0.1, 200).tolist()
+# noise_levels   = [0.0] + np.linspace(0.001, 0.4, 50).tolist()
+
 Shots        R²        RMSE           m         σ_m           c         σ_c
 ------------------------------------------------------------------------
 2^20    0.9998    0.001594    5.010171    0.015595   -0.000249    0.000777
