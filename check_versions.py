@@ -1,6 +1,6 @@
 ﻿import importlib, sys
 
-packages = ['qiskit', 'qiskit_aer', 'qiskit_algorithms', 'numpy', 'scipy', 'joblib', 'matplotlib']
+packages = ['qiskit', 'qiskit_aer', 'qiskit_algorithms', 'numpy', 'scipy', 'joblib', 'matplotlib', 'aer', 'joblib']
 print(f'Python: {sys.version}')
 print()
 for pkg in packages:
