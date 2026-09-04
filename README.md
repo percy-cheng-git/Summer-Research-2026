@@ -4,5 +4,5 @@ Code and data accompanying the paper [title]. This repository benchmarks Iterati
 
 Includes:
 
-- Simulation code implementing IQAE under both noise models
+- Simulation code implementing IQAE under both noise models and noiseless
 - Data analysis notebook (Jupyter) for generating plots and for re-running individual simulations at specific noise/error coordinates identified by the bisection search, to obtain detailed log data
